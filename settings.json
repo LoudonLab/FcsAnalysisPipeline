@@ -1,0 +1,56 @@
+{
+    "show_interactive_summary_plots": "False",
+    "show_interactive_summary_Kd_plots": "False",
+    "save_individual_plots": "True",
+    "save_individual_intensity_plots": "True",
+    "save_individual_Kd_plots": "True",
+    "save_summary_Kd_plots": "True",
+    "show_individual_plots": "False",
+    "show_individual_Kd_plots": "False",
+    "save_only_best_fits": "False",
+    "individual_sheets": "False",
+    "average_auto_correlation": "False",
+    "auto_correlation_1_model": [
+        "normal_diffusion_offset",
+        "anomalous_diffusion_offset",
+        "normal_diffusion_triplet_offset",
+        "anomalous_diffusion_triplet_offset",
+        "normal_diffusion_two_component_triplet_offset",
+        "normal_diffusion_two_component_offset"
+    ],
+    "auto_correlation_2_model": [
+        "normal_diffusion_offset",
+        "anomalous_diffusion_offset",
+        "normal_diffusion_triplet_offset",
+        "anomalous_diffusion_triplet_offset",
+        "normal_diffusion_two_component_triplet_offset",
+        "normal_diffusion_two_component_offset"
+    ],
+    "cross_correlation_model": [
+        "cross_correlation_normal"
+    ],
+    "model_selection_test": "AIC",
+    "model_selection": "individual",
+    "use_errors_in_fitting": "True",
+    "correlator_error_function": "saffarian_full",
+    "reject_fits_equal_to_bounds": "True",
+    "molecular_brightness": 22500,
+    "diffusion_guess": 5,
+    "wavelength": 4.88e-07,
+    "numerical_aperture": 1.3,
+    "refractive_index": 1.515,
+    "wxy_overide": 3e-07,
+    "wz_overide": 1.5e-06,
+    "leave_one_out_fitting": "False",
+    "leave_one_out_sort_by": "N",
+    "use_bounds": "True",
+    "save_plots": "True",
+    "save_curves": "True",
+    "time_domain": {
+        "bottom_channel": 0,
+        "top_channel": -1
+    },
+    "background_correction": "False",
+    "photobleaching_correction": "False",
+    "recent_folder": ""
+}
