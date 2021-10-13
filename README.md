@@ -8,7 +8,7 @@ This tool comes as is and has not been extensively tested across different compu
 
 The working name for this project is Fish and Cushion.
 
-Python packagerRequirements to be installed via Pip (or by other means): 
+Python package requirements to be installed via Pip (or by other means): 
 - pandas
 - numpy
 - tqdm
