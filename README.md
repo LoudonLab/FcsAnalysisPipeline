@@ -1,4 +1,4 @@
-# FishAndCushion
+# FcsAnalysisPipeline
 
 Authors: Alex Koch, James Bagnall, Hannah Perkins
 
